@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "akka-sample",
+                "projectName": "akka-sample",
+                "workingDirectory": "/Users/nad/Documents/Computing/Project/scratchpad/scratchpad-java/akka-sample",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "akka-sample",
+                "projectName": "akka-sample",
+                "workingDirectory": "/Users/nad/Documents/Computing/Project/scratchpad/scratchpad-java/akka-sample",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
