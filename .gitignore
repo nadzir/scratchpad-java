@@ -1,3 +1,9 @@
 .gradle
 .vscode
 .settings
+
+
+# Java
+target
+bin
+project
